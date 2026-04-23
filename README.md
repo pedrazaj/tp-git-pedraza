@@ -7,4 +7,4 @@ print ("HOLA SISTEMA DE GESTION DE ALUMNOS")
 # este sistema llevará mas agilidad y funcionalidad a las tareas diarias
 =======
 # aumentamos una linea mas
->>>>>>> 095ddd7f8bbe0c6d93d87163737d0ab54ac990dd
+# se borro esta línea
